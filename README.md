@@ -28,12 +28,13 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
-
-<img src='https://i.imgur.com/f4S3MkM.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+Here's a walkthrough of implemented required features:
+Here's a walkthrough of implemented features:
+[![Watch the video](https://www.nicepng.com/png/full/22-225492_watch-video-button-animated.png)](https://imgur.com/gallery/XBpGCYE)
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ScreenToGif
+GIF created with ...  
+IMGUR
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
