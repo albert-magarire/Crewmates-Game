@@ -1,9 +1,9 @@
-# Web Development Project 7 - Star Wars Starship Crew Creator
-Submitted by: Landin Kasti
+# Web Development Project 7 - Star Wars Crew
+Submitted by: Betserai Albert Magarire
 
-This web app: Allows the user to create a crew to join them on their space ship
+This web app: Creates the and allows viewing of the starship crew
 
-Time spent: 2.5 hours spent in total
+Time spent: 6 hours spent in total
 
 ## Required Features
 
@@ -12,12 +12,13 @@ The following **required** functionality is completed:
 - [x] **A create form allows users to add new cremates**
 - [x] **Users can name the crewmate and set the crewmate's attributes by clicking on one of several values**
 - [x] **The site displays a summary page of all the user's added crewmates**
-- [x] **A previously created crewmate can be updated and deleted from the crewmate list**
+- [x] **A previously created crewmate can be updated from the crewmate list**
+- [x] **A previously created crewmate can be deleted from the crewmate list**
 - [x] **Each crewmate has a direct, unique link to an info page about them**
 
 The following **optional** features are implemented:
 
-- [ ] A crewmate can be given a category upon creation which restricts their attributes
+- [x] A crewmate can be given a category upon creation which restricts their attributes
 - [ ] The site displays summary statistics about a user's crew on their crew page 
 - [ ] The site displays a custom "success" metric about a user's crew which changes the look of the crewmate list
 
@@ -44,7 +45,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [2023] [Landin F. Kasti]
+    Copyright [2024] [Betserai Albert Magarire]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
