@@ -1,0 +1,51 @@
+.home-page{
+    height: max-content;
+    width: 100vw;
+
+    display: flex;
+    flex-direction: row;
+
+    justify-content: start;
+    align-items: center;
+
+    /* background-color: black; */
+    background: url("../assets/space2.webp");
+
+
+
+    flex-grow: 1;
+}
+
+.side-bar{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    text-align: center;
+
+    height: 40vh;
+    width: 300px;
+
+    margin-left: 100px;
+
+    font-size: 25px;
+
+    background-color: rgba(128, 126, 126, 0.733);
+
+    border: solid 3px gold;
+    border-radius: 50px;
+
+    position: absolute;
+}
+
+
+
+.side-bar >*{
+    margin: 25px 10px;
+    color: white;
+}
+
+.side-bar >*:hover{
+    filter: drop-shadow( 0 0 2px rgb(0, 152, 212));
+}

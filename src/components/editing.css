@@ -1,0 +1,97 @@
+.editing-page{
+    width: 100vw;
+    height: 100vh;
+
+    /* margin-left: auto;
+    margin-right: auto; */
+
+    /* margin: auto; */
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    color: white;
+
+    background: url("../assets/space2.webp");
+    
+}
+
+
+.editing-form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    font-size: 25px;
+
+
+}
+
+.editing-form>*{
+    width: 300px;
+
+}
+
+input, select, button{
+    width: 100%;
+    height: 50px;
+
+    font-size: inherit;
+
+    text-align: center;
+}
+
+
+input#submit{
+    margin-top: 20px;
+
+    color: white;
+
+    background-color: rgba(128, 126, 126, 0.733);
+
+    border: solid 2px white;
+    border-radius: 20px;
+}
+
+input#submit:hover{
+    cursor: pointer;
+    border: solid 2px gold;
+
+    background-color: rgba(255, 217, 0, 0.404);
+}
+
+.deleteButton{
+    margin-top: 20px;
+
+    color: white;
+
+    background-color: rgba(128, 126, 126, 0.733);
+
+    border: solid 2px rgb(255, 0, 0);
+    border-radius: 20px;
+}
+
+.deleteButton:hover{
+    cursor: pointer;
+
+    background-color: rgba(255, 0, 0, 0.733);
+}
+
+.editing-img{
+    margin-left: 100px;
+}
+
+.editing-img img{
+    width: 300px;
+    height: 400px;
+
+    text-align: center;
+    font-size: 40px;
+
+    border: solid 2px rgb(0, 255, 242);
+
+    border-radius: 30px;
+
+}

@@ -1,0 +1,40 @@
+.memberview-page{
+    width: 100vw;
+    height: 100vh;
+
+    /* margin-left: auto;
+    margin-right: auto; */
+
+    /* margin: auto; */
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    color: white;
+
+}
+
+.member-data{
+    text-align: center;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.member-data h2{
+    font-size: 70px;
+}
+
+.member-data p{
+    font-size: 25px;
+}
+
+.member-data .edit-link{
+    font-size: 25px;
+    padding: 15px;
+
+    border-radius: 30px;
+}
